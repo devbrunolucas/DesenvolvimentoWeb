@@ -22,7 +22,7 @@
 
 ### Links
 
-- Live Site URL: [https://nft-component-black.vercel.app](https://nft-component-black.vercel.app)
+- Live Site URL: [https://desenvolvimento-web-mu.vercel.app](https://desenvolvimento-web-mu.vercel.app)
 
 ## Meu processo
 
