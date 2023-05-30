@@ -29,7 +29,7 @@
 ### Construído com
 
 - Semantic HTML5 markup
-- CSS3
+- CSS custom properties
 
 ### O que eu aprendi
 
