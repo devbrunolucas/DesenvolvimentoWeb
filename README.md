@@ -1,4 +1,4 @@
-# Desenvolvimento Web  - Projeto TEC BLOG
+# Desenvolvimento Web  - Projeto Site de Notícias Cidades
 
 
 ## Table of contents
@@ -14,7 +14,7 @@
 
 
 ## Visão Geral
-    Este foi um projeto criado com HTML5 e CSS3, basicamente criei um protótipo de um site para um blog.
+    Este foi um projeto criado com HTML5 e CSS3 intermediário, basicamente criei um protótipo de um site fornecer notícias da cidade.
 
 ### Captura de Tela
 
@@ -30,24 +30,32 @@
 
 - Semantic HTML5 markup
 - CSS3
+- CSS3 intermediário
 
 ### O que eu aprendi
 
-  Neste projeto eu revisei as maneiras de criação e conceitos de seletores,classes,ids,div,span,fontes, cores, css inline,css externo e etc.
+  Neste projeto eu revisei as maneiras de criação e conceitos de técnicas avançadas de seletores,herança e especificidade,forms,barra de navegação horizontal e vertical, coluna falsa e etc.
 
 ```html
-<div class="postagem">
-				<h2>Titulo da postagem 1</h2>
-				<span class="data-postagem">postado 20 março 2022</span>
-				<img width="620px" src="imagens/imagem1.jpg">
-</div>
+<form>
+								<div>
+									<label for="email">Email:</label>
+									<input type="text" name="email" id="email" placeholder="E-mail">
+								</div>
+								<div>
+									<input class="submit" type="submit" value="Cadastrar" >
+								</div>
+							</form>
 ```
 ```css
+#lista-noticias li a {
+	text-decoration: none;
+}
 
-.postagem-lateral {
+#lista-noticias li a h3 {
 	font-size: 0.8em;
-	padding: 5px;
-	border-bottom: 1px dotted #CCC;
+	padding: 0;
+	color: #3e7ab9;
 }
 
 ```  
