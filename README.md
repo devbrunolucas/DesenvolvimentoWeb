@@ -38,14 +38,14 @@
 
 ```html
 <form>
-								<div>
-									<label for="email">Email:</label>
-									<input type="text" name="email" id="email" placeholder="E-mail">
-								</div>
-								<div>
-									<input class="submit" type="submit" value="Cadastrar" >
-								</div>
-							</form>
+		<div>
+			<label for="email">Email:</label>
+			<input type="text" name="email" id="email" placeholder="E-mail">
+		</div>
+		<div>
+			<input class="submit" type="submit" value="Cadastrar" >
+		</div>
+</form>
 ```
 ```css
 #lista-noticias li a {
