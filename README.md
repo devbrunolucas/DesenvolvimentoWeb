@@ -22,7 +22,7 @@
 
 ### Links
 
-- Live Site URL: [https://desenvolvimento-web-mu.vercel.app](https://desenvolvimento-web-mu.vercel.app)
+- Live Site URL: [https://desenvolvimento-web-git-projeto-cidadenoticia-devbrunolucas.vercel.app](https://desenvolvimento-web-git-projeto-cidadenoticia-devbrunolucas.vercel.app)
 
 ## Meu processo
 
