@@ -1,4 +1,4 @@
-# Desenvolvimento Web  - Projeto Site de Notícias Cidades
+# Desenvolvimento Web  - Projeto Spotify
 
 
 ## Table of contents
@@ -14,7 +14,7 @@
 
 
 ## Visão Geral
-    Este foi um projeto criado com HTML5 e CSS3 intermediário, basicamente criei um protótipo de um site fornecer notícias da cidade.
+    Este foi um projeto criado com HTML5,CSS3 intermediário e Bootstrap, basicamente criei um protótipo do Spotify.
 
 ### Captura de Tela
 
@@ -31,31 +31,24 @@
 - Semantic HTML5 markup
 - CSS3
 - CSS3 intermediário
+- Bootstrap
+- Design responsivo
 
 ### O que eu aprendi
 
-  Neste projeto eu revisei as maneiras de criação e conceitos de técnicas avançadas de seletores,herança e especificidade,forms,barra de navegação horizontal e vertical, coluna falsa e etc.
+  Neste projeto eu revisei as maneiras de criação e conceitos de técnicas avançadas de formatações de textos, elementos flutuantes, Botões, Media Queries, Cards, ícones, Bootstrap e etc.
 
 ```html
-<form>
-								<div>
-									<label for="email">Email:</label>
-									<input type="text" name="email" id="email" placeholder="E-mail">
-								</div>
-								<div>
-									<input class="submit" type="submit" value="Cadastrar" >
-								</div>
-							</form>
+ <ul class="navbar-nav ml-auto">
+              <li class="nav-item">
+                <a href="" class="nav-link">Premium</a>
+              </li>
 ```
 ```css
-#lista-noticias li a {
-	text-decoration: none;
-}
-
-#lista-noticias li a h3 {
-	font-size: 0.8em;
-	padding: 0;
-	color: #3e7ab9;
+@media (min-width: 992px) and (max-width: 1199.98px) {
+	h1 {
+		font-size: 5em;
+	}
 }
 
 ```  
