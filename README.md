@@ -22,7 +22,7 @@
 
 ### Links
 
-- Live Site URL: [https://desenvolvimento-web-mu.vercel.app](https://desenvolvimento-web-mu.vercel.app)
+- Live Site URL: [https://desenvolvimento-web-git-projeto-game-mosquito-devbrunolucas.vercel.app](https://desenvolvimento-web-git-projeto-game-mosquito-devbrunolucas.vercel.app)
 
 ## Meu processo
 
